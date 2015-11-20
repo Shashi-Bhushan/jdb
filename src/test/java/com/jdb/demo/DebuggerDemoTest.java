@@ -15,7 +15,7 @@ public class DebuggerDemoTest {
     private static final String DUMMY_NAME = "DUMMY_NAME";
 
     @BeforeClass
-    public static void setUp(){
+    public static final void setUp(){
         debuggerDemo = new DebuggerDemo().setName(DUMMY_NAME);
     }
 
