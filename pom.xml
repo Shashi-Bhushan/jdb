@@ -14,5 +14,10 @@
       <version>4.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>com.github.javadev</groupId>
+      <artifactId>underscore</artifactId>
+      <version>1.21</version>
+    </dependency>
   </dependencies>
 </project>
